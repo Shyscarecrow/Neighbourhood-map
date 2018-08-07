@@ -24,10 +24,13 @@
   border-radius:0 10px 10px 0;
 }
 .nav{
-background-color: #222a3e;
+background-color: red;
 color: #E6E6E6;
 padding: 15px;
+font-family: 'Cookie', cursive;
+font-size: 3em;
 text-transform: uppercase;
+text-align: center;
 }
 .infoWindow{
   width: 150px;
@@ -35,8 +38,8 @@ text-transform: uppercase;
 .form-control{
 min-height: 28px; 
 width: 90%;  
-border:1px solid #222a3e;
-border-radius: 5px;
+border:1px solid red;
+border-radius: 7px;
 margin-top: 10px;
 margin-bottom: 30px;
 font-size: 12px;
@@ -64,7 +67,7 @@ height: 100%;
 }
 ul{
  padding-right: 10px;
- list-style-type: square;
+ font-family: 'Cookie', cursive;
 }
 li{
   padding-bottom: 10px;
